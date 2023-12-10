@@ -5,9 +5,9 @@
 </div>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rozhakxd&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
+<img src="https://github-readme-stats.vercel.app/api?username=Rexx&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rozhakxd&theme=radical&title_color=8E2DE2&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rexx&theme=radical&title_color=8E2DE2&text_color=fff)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
